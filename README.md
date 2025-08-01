@@ -1,1 +1,1 @@
-# Arduino_EMU800_Display
+# Arduino EMU800 DI Display
